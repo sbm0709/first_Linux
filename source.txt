@@ -1,1 +1,4 @@
 hi
+void main(){
+	print("Hello")
+}
